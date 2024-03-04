@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme848-spices-store.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theme848-spices-store.myshopify.com/collections/seasonings.atom"/>
+  <title>theme848-spices-store</title>
+  <updated>2020-04-22T04:28:49-04:00</updated>
+  <author>
+    <name>theme848-spices-store</name>
+  </author>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584143749217</id>
+    <published>2020-04-22T04:28:49-04:00</published>
+    <updated>2020-04-22T04:28:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/tones-ground-cinnamon"/>
+    <title>Tone&apos;s Ground Cinnamon</title>
+    <s:type>Herbs</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/wasabi-powder_01.png?v=1587544134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Herbs<br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So don`t waste your time on hesitation and make your purchase in our store. We bring positive emotions and elegant taste into your dishes. Remember that you can get a good benefit in our store. Welcome to the world of the unbelievable smell and perfect taste. From ancient times spices were very rare and expensive. Only very rich people could afford buying spices.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curry</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584143749217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584143519841</id>
+    <published>2020-04-22T04:28:37-04:00</published>
+    <updated>2020-04-22T04:28:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/schani-moong-split-chilka"/>
+    <title>Schani Moong Split Chilka</title>
+    <s:type>Chily powder</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/tandoori-seasoning_01.png?v=1587544120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Chily powder<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy shopping in our store! Need help? You can address our 24/7 online support system. There you can find all answers concerning our goods, terms and prices. So don`t waste your time on hesitation and make your purchase in our store. We bring positive emotions and elegant taste into your dishes. Remember that you can get a good benefit in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chily</s:tag>
+    <s:tag>curry</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584143519841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584143388769</id>
+    <published>2020-04-22T04:28:28-04:00</published>
+    <updated>2020-04-22T04:28:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/mccormick-oregano-leaves"/>
+    <title>McCormick Oregano Leaves</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/sichuan-pepper-sea-salt_01.png?v=1587544112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            5.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We care about our clients and never let them down. Our assortment can satisfy most whimsical clients. Enjoy shopping in our store! Need help? You can address our 24/7 online support system. There you can find all answers concerning our goods, terms and prices. So don`t waste your time on hesitation and make your purchase in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chily</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584143388769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.30</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584143257697</id>
+    <published>2020-04-22T04:28:19-04:00</published>
+    <updated>2020-04-22T04:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/frontier-cinnamon-sticks"/>
+    <title>Frontier Cinnamon Sticks</title>
+    <s:type>Chily powder</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/organic-bay-leaves_01.png?v=1587544103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Chily powder<br>
+        <strong>Price: </strong>
+            3.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our spices are real bestsellers and they have a great number of faithful fans all over the country. There is no doubt about our reputation because it`s perfect and our clients` testimonials can prove this fact. We care about our clients and never let them down. Our assortment can satisfy most whimsical clients. Enjoy shopping in our store!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chily</s:tag>
+    <s:tag>curry</s:tag>
+    <s:tag>Evening Bag</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584143257697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584143028321</id>
+    <published>2020-04-22T04:28:05-04:00</published>
+    <updated>2020-04-22T04:28:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/channa-chick-pea"/>
+    <title>Channa (Chick Pea)</title>
+    <s:type>Curry powder</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/dried-pineapple_01.png?v=1587544089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Curry powder<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We provide only premium quality goods at a fair price. Our vendors and manufacturers guarantee the quality of our spices. The products of our store are the standard of elegant taste and if you want to express your emotions in cooking you have to buy our products because they are simply unbelievable. So don`t waste your time on hesitation and make your purchase in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pea</s:tag>
+    <s:tag>Sit amet</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584143028321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584142962785</id>
+    <published>2020-04-22T04:28:00-04:00</published>
+    <updated>2020-04-22T04:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/celery-seed-ground"/>
+    <title>Celery Seed Ground</title>
+    <s:type>Chily powder</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/dried-kiwi_01.png?v=1587544084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Chily powder<br>
+        <strong>Price: </strong>
+            6.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You`ll be amazed because we have a largest choice of tremendous spices. We provide only premium quality goods at a fair price. Our vendors and manufacturers guarantee the quality of our spices. The products of our store are the standard of elegant taste and if you want to express your emotions in cooking you have to buy our products because they are simply unbelievable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chily</s:tag>
+    <s:tag>Dolor</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584142962785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584142798945</id>
+    <published>2020-04-22T04:27:56-04:00</published>
+    <updated>2020-04-22T04:27:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/cardamom-seeds"/>
+    <title>Cardamom Seeds</title>
+    <s:type>Herbs</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/dried-fruit-papaya_01.png?v=1587544080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Herbs<br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are proud to present our unique products. You`ll be amazed because we have a largest choice of tremendous spices. We provide only premium quality goods at a fair price. Our vendors and manufacturers guarantee the quality of our spices. There is no doubt about our reputation because it`s perfect and our clients` testimonials can prove this fact.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>herbs</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584142798945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584142569569</id>
+    <published>2020-04-22T04:27:41-04:00</published>
+    <updated>2020-04-22T04:27:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/candied-fancy-nectarines"/>
+    <title>Candied Fancy Nectarines</title>
+    <s:type>Chily powder</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/celery-salt_01.png?v=1587544066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Chily powder<br>
+        <strong>Price: </strong>
+            2.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only very rich people could afford buying spices. Nowadays spices have become a casual part of all the types of cuisine. We can`t imagine our life without pepper or cinnamon. We are proud to present our unique products. You`ll be amazed because we have a largest choice of tremendous spices. We provide only premium quality goods at a fair price.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584142569569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584142471265</id>
+    <published>2020-04-22T04:27:36-04:00</published>
+    <updated>2020-04-22T04:27:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/camel-green-peas"/>
+    <title>Camel Green Peas</title>
+    <s:type>Herbs</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/basil_california_01.png?v=1587544061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Herbs<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From ancient times spices were very rare and expensive. Only very rich people could afford buying spices. Nowadays spices have become a casual part of all the types of cuisine. We can`t imagine our life without pepper or cinnamon. We are proud to present our unique products. You`ll be amazed because we have a largest choice of tremendous spices. Enjoy shopping in our store!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:tag>spice</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584142471265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theme848-spices-store.myshopify.com/products/4584142405729</id>
+    <published>2020-04-22T04:27:30-04:00</published>
+    <updated>2020-04-22T04:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme848-spices-store.myshopify.com/products/black-pepper-whole"/>
+    <title>Black Pepper Whole</title>
+    <s:type>Spices</s:type>
+    <s:vendor>Simply Organic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0282/3402/3009/products/baharat-spice_01.png?v=1587544055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simply Organic<br>
+        <strong>Type: </strong>Spices<br>
+        <strong>Price: </strong>
+            2.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welcome to the world of the unbelievable smell and perfect taste. From ancient times spices were very rare and expensive. Only very rich people could afford buying spices. Nowadays spices have become a casual part of all the types of cuisine. We can`t imagine our life without pepper or cinnamon. We are proud to present our unique products.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://theme848-spices-store.myshopify.com/products/4584142405729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
